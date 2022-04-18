@@ -1,9 +1,0 @@
-title: Ellie Bae # your name (or website title) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://linkedin.com/in/ellie-s-bae">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
